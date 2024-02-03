@@ -9,8 +9,8 @@
 
 - 💬 Ask me about **Python,SQL,Tableu,Excel...**
 
-- 📫 How to reach me: <p> **devemail413@gamil.com** </p>
-<p>LinkedIn : **www.linkedin.com/in/simão-d-domingos-598606240**</p>
+- 📫 How to reach me: <p> Email: <spam> devemail413@gamil.com </spam> </p>
+<p>LinkedIn : www.linkedin.com/in/simão-d-domingos-598606240** </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/simon dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="simon dev" height="30" width="40" /></a>
