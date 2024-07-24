@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simondev413&label=Profile%20views&color=0e75b6&style=flat" alt="simondev413" /> </p>
 
-- 🔭 I’m currently working on [Auth. RestAPI](https://github.com/simondev413/Auth.-RestAPI)
+- 🔭 I’m currently working on [SpiderWeb ORM](https://github.com/simondev413/spiderweb-ORM-v0.1)
 
 - I'm current learning **System Design,Microservices, System Patterns and TDD**
 
-- 💬 Ask me about **Python,Django,Data analysis**
+- 💬 Ask me about **Python,Django,Data analysis, back-end Development**
 
 - 📫 How to reach me **devemail413@gmail.com**
 
